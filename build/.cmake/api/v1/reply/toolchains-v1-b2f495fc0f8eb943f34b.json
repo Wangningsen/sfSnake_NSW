@@ -1,0 +1,103 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
+			},
+			"language" : "C"
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/include/c++/13.0.1",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/include/c++/13.0.1/x86_64-w64-mingw32",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/include/c++/13.0.1/backward",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/13.0.1/include",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/include",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/13.0.1/include-fixed",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/13.0.1",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/lib/gcc",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/lib",
+						"C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"mcfgthread",
+						"kernel32",
+						"ntdll",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"mcfgthread",
+						"kernel32",
+						"ntdll"
+					]
+				},
+				"path" : "C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+				"version" : "13.0.1"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
