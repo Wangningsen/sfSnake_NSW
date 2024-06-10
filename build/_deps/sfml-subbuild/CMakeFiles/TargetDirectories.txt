@@ -1,3 +1,0 @@
-D:/oopcode/sfSnake-master_NingsenWang/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
-D:/oopcode/sfSnake-master_NingsenWang/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
-D:/oopcode/sfSnake-master_NingsenWang/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
